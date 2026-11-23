@@ -1,0 +1,5 @@
+longitud 2: porcentaje:24.66%
+longitud 5: porcentaje:16.44%
+longitud 7: porcentaje:15.07%
+longitud 3: porcentaje:15.07%
+longitud 6: porcentaje:10.96%

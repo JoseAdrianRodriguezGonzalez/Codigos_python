@@ -1,0 +1,5 @@
+crear cuenta en mongo atlas
+montar servidor en db
+
+#jJoAwerzMlhMqkeA
+#kerpador_db_user

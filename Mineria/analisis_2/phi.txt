@@ -1,0 +1,15 @@
+tienes una variable 
+X
+1   0   y
+N_11 N_10       n_{1*}
+N_01 N_00       n_{0*}
+N_{*1}  N_{*0}       TOTAL N_
+
+\phi=\frac{n_{11}n_{00}-n_{10}n_{01}}{\sqrt{n_{1*}n_{0*}n_{*0}n_{*1}}}
+
+variables binarias 
+Va de -1 a 1, puede ser interpretado de la misma manera que la correlación de Pearson
+
+Receurda la formula de la probabilidad cndiconla
+
+P(A|B)=\frac{P(A\cap B)}{P(B)}

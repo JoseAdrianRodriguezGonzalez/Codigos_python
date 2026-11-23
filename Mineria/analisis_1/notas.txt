@@ -1,0 +1,38 @@
+edad   intervalo razon
+sexo   Nominal
+altura  Intervalo razon
+peso    intervalo razon
+semestres  Ordinal
+herramientas IA  Nominal
+Sustitur   Nominal
+
+
+Frecuencias porcentaje, las nominales y ordinalesg
+resumen de los cinco numeros
+
+minimo 18
+q1     21
+q2     23.5
+q3     26
+maximo 28
+
+Método q(n+1)/4
+
+Métpdp excluir la mediana
+metodo incluir la mediana
+método q(n-1)/4+1
+
+q3=p(q3)=q/4(n-1)+1
+
+iqr=q3-q1=14.5
+Valla superior interrior
+UIF=Q3+1.5*IQR
+
+valla inferior interior
+LIF=Q1-1.5*IQR
+
+
+Valla superior exterior 
+UOF=Q3+3*IQR
+
+LOF=Q1-3*IQR
