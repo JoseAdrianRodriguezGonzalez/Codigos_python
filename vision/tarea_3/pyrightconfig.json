@@ -1,0 +1,17 @@
+{
+    "include": [
+        "main.py",
+        "preparacion"
+    ],
+    "exclude": [
+        "**/__pycache__",
+        ".venv",
+        "data",
+        "output",
+        "synthetic_dataset"
+    ],
+    "typeCheckingMode": "basic",
+    "pythonVersion": "3.10",
+    "reportMissingImports": "warning",
+    "reportMissingTypeStubs": "none"
+}

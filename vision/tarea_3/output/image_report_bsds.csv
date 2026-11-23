@@ -1,0 +1,6 @@
+root,filename,relative_path,directory,width,height,channels,mode,aspect_ratio
+data,20008.jpg,images/20008.jpg,images,321,481,3,RGB,0.6673596673596673
+data,24004.jpg,images/24004.jpg,images,321,481,3,RGB,0.6673596673596673
+data,35010.jpg,images/35010.jpg,images,481,321,3,RGB,1.4984423676012462
+data,35070.jpg,images/35070.jpg,images,481,321,3,RGB,1.4984423676012462
+data,69007.jpg,images/69007.jpg,images,481,321,3,RGB,1.4984423676012462

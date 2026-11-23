@@ -1,0 +1,11 @@
+root,filename,relative_path,directory,width,height,channels,mode,aspect_ratio
+synthetic_dataset,clean.jpg,corners/clean.jpg,corners,481,321,1,L,1.4984423676012462
+synthetic_dataset,ground_truth.jpg,corners/ground_truth.jpg,corners,481,321,1,L,1.4984423676012462
+synthetic_dataset,clean.jpg,curves/clean.jpg,curves,481,321,1,L,1.4984423676012462
+synthetic_dataset,ground_truth.jpg,curves/ground_truth.jpg,curves,481,321,1,L,1.4984423676012462
+synthetic_dataset,clean.jpg,frequency/clean.jpg,frequency,481,321,1,L,1.4984423676012462
+synthetic_dataset,ground_truth.jpg,frequency/ground_truth.jpg,frequency,481,321,1,L,1.4984423676012462
+synthetic_dataset,clean.jpg,geometry/clean.jpg,geometry,481,321,1,L,1.4984423676012462
+synthetic_dataset,ground_truth.jpg,geometry/ground_truth.jpg,geometry,481,321,1,L,1.4984423676012462
+synthetic_dataset,clean.jpg,orientation/clean.jpg,orientation,481,321,1,L,1.4984423676012462
+synthetic_dataset,ground_truth.jpg,orientation/ground_truth.jpg,orientation,481,321,1,L,1.4984423676012462
